@@ -1,4 +1,4 @@
 # Cloud Test
 This is to test how git operates
 
-This is another amendment
+I am also making a change
